@@ -1,4 +1,4 @@
-import 'package:arch/app/pages/app_controller.dart';
+import 'package:arch/app/app_controller.dart';
 import 'package:arch/app/pages/home/home_page.dart';
 import 'package:flutter/material.dart';
 
