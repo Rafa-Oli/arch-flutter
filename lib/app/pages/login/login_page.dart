@@ -1,4 +1,4 @@
-import 'package:arch/app/components/custom_switch_widget.dart';
+import 'package:arch/app/pages/home/components/custom_switch_widget.dart';
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatefulWidget {
